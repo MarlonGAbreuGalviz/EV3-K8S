@@ -76,3 +76,4 @@ jobs:
           kubectl get svc
           kubectl get hpa
           kubectl get pvc
+#Prueba
